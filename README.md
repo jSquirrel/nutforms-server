@@ -34,3 +34,12 @@ libary is installed and run the tests.
 ```
 $ mvn test
 ```
+
+# Contributing
+
+Feel free to contribute to the project by reporting [issues](https://github.com/jSquirrel/nutforms-server/issues)
+or creating [pull requests](https://github.com/jSquirrel/nutforms-server/pulls).
+
+# License
+
+This software is provided under [MIT License](https://opensource.org/licenses/MIT).
