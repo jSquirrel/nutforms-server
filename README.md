@@ -47,4 +47,4 @@ This software is provided under [MIT License](https://opensource.org/licenses/MI
 # Documentation
 
 For better understanding of this library,
-please see [documentation](https://github.com/jSquirrel/nutforms-server/tree/master/docs/en/index.mc).
+please see [documentation](https://github.com/jSquirrel/nutforms-server/tree/master/docs/en/index.md).
