@@ -4,7 +4,7 @@
 
 Server-side aspect registries for automatic form generation.
 
-# Installation
+## Installation
 
 
 This project is managed my [Maven](http://maven.apache.org), which must
@@ -26,7 +26,7 @@ $ cd ./nutforms-server
 $ mvn install
 ```
 
-# Running tests
+## Running tests
 
 Tests are executed via Maven. Navigate to the folder in which your Nutforms Server
 libary is installed and run the tests.
@@ -35,16 +35,16 @@ libary is installed and run the tests.
 $ mvn test
 ```
 
-# Contributing
+## Contributing
 
 Feel free to contribute to the project by reporting [issues](https://github.com/jSquirrel/nutforms-server/issues)
 or creating [pull requests](https://github.com/jSquirrel/nutforms-server/pulls).
 
-# License
+## License
 
 This software is provided under [MIT License](https://opensource.org/licenses/MIT).
 
-# Documentation
+## Documentation
 
 For better understanding of this library,
 please see [documentation](https://github.com/jSquirrel/nutforms-server/tree/master/docs/en/index.md).
