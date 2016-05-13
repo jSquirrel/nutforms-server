@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/jSquirrel/nutforms-server.svg?branch=master)](https://travis-ci.org/jSquirrel/nutforms-server)
 
-Collection of servlets providing aspect definition source for Nutforms clients.
+Server-side aspect registries for automatic form generation.
 
 # Installation
 
