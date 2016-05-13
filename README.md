@@ -10,7 +10,7 @@ Collection of servlets providing aspect definition source for Nutforms clients.
 This project is managed my [Maven](http://maven.apache.org), which must
 be installed on your system.
 
-First, you need to install and build jSquirrel Adaptive RESTful API.
+First, you need to install and build [jSquirrel Adaptive RESTful API](https://travis-ci.org/jSquirrel/adaptive-restful-api).
 
 ```
 $ git clone git@github.com:jSquirrel/adaptive-restful-api.git ./adaptive-restful-api
